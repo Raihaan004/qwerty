@@ -12,7 +12,7 @@ export default function Home() {
       {/* Additional Placeholder Sections */}
       <section className="py-32 px-12 max-w-7xl mx-auto flex flex-col items-center justify-center border-t border-neutral-100">
           <div className="text-center">
-            <h2 className="text-6xl font-black text-neutral-900 leading-tight mb-8">Ready to explore<br />the world?</h2>
+            <h2 className="text-6xl font-black text-neutral-900 leading-tight mb-8">Ready to exwertyuifghjplore<br />the world?</h2>
             <p className="text-neutral-500 max-w-xl mx-auto text-lg mb-12 uppercase tracking-widest font-semibold opacity-70">Experience the world one adventure at a time</p>
             <div className="flex items-center justify-center gap-4">
                 <div className="w-16 h-16 rounded-full border-2 border-dashed border-neutral-200 animate-spin-slow"></div>
